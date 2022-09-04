@@ -32,7 +32,7 @@ jocelyn@routin:~$ But sometimes, my brain does a 'while(true)' loop, especially 
 jocelyn@routin:~$
 jocelyn@routin:~$ Now about my school curriculum, I carried out a technological baccalauréat called STI2D.
 jocelyn@routin:~$ Then, during my academic year, I did a DUT GEII.
-jocelyn@routin:~$ It is a technological diploma about electrical engineering (ew) and industrial computing.
+jocelyn@routin:~$ It is a technological diploma about electrical engineering and industrial computing.
 jocelyn@routin:~$ After that, I did a DUETI, this time in PURE computing, in the Netherlands.
 jocelyn@routin:~$ Finally, I tried to do a year of licence and professional licence in computing.
 jocelyn@routin:~$ I was able to learn a ton of new things, but the format was not appropriate for me...
