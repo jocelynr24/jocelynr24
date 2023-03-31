@@ -18,7 +18,7 @@
 
 ```
 jocelyn@routin:~$ Hello, and again, welcome to my profile!
-jocelyn@routin:~$ My name is Jocelyn Routin (@jocelynr24) and I am 24 years old.
+jocelyn@routin:~$ My name is Jocelyn Routin (@jocelynr24) and I am 26 years old.
 jocelyn@routin:~$
 jocelyn@routin:~$ I live in France and I like to learn new languages.
 jocelyn@routin:~$ I learned English and Spanish at school.
